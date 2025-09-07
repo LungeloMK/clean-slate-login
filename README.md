@@ -30,7 +30,7 @@ Login/
 └── README.md          # Project documentation
 ```
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - **HTML5**: Semantic markup and modern structure
 - **CSS3**: Flexbox, Grid, animations, and responsive design
@@ -81,7 +81,7 @@ php -S localhost:8000
 
 Then visit `http://localhost:8000` in your browser.
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Desktop**: 1200px and above
 - **Tablet**: 900px - 1199px
@@ -152,10 +152,6 @@ The project includes responsive design that works across all devices:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ##  Author
 
 Created with ❤️ by LungeloMK
@@ -166,7 +162,7 @@ Created with ❤️ by LungeloMK
 - [Unsplash](https://unsplash.com/) for the beautiful background image
 - Modern CSS techniques and best practices
 
-## 📞 Support
+##  Support
 
 If you have any questions or suggestions, please feel free to:
 - Open an issue on GitHub
@@ -175,4 +171,4 @@ If you have any questions or suggestions, please feel free to:
 
 ---
 
-⭐ Star this repository if you found it helpful!
+ Star this repository if you found it helpful!
